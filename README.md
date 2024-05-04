@@ -3,3 +3,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Desarrolladora web proveniente de Perú+Apasionada por la tecnología,;estoy aqui para dejar mi huella en el mundo del desarrollo.,;Mi sed de conocimiento me ha llevado a superar obstáculos y a destacaren cada proyecto en el que me involucro,;me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que impulsen la creatividad y la diferencia,;con experiencia en HTML, CSS, JavaScript, JAVA,;siempre estoy lista para sumergirme a nuevos desafíos..<3"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
