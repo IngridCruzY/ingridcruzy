@@ -12,3 +12,8 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
     <a href="https://linkedin.com/in/ingrid-lizbeth-cruz-ybañez-252239213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ingrid cruz" height="30" width="40" /></a>
     <a href="https://instagram.com/ingridlcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ingridlcruz" height="30" width="40" /></a
 </p>
+
+# 💻 Lenguajes de Programación:
+<p align="left"> 
+    <a href="https://lenguajehtml.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
+</p>
