@@ -28,7 +28,7 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 Una serpiente devorando mis contribuciones
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
