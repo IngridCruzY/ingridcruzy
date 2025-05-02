@@ -26,7 +26,11 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-## 📊 Estadísticas de GitHub
+# 🏆 Trofeos de GitHub
+
+![](https://github-profile-trophy.vercel.app/?username=ingridcruzy&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+# 📊 Estadísticas de GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingridcruzy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ingridcruzy&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
