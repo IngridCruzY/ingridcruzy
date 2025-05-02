@@ -28,9 +28,7 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-<a href="https://github.com/ingridcruzy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ingridcruzy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingridcruzy&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="left" style="display: flex; justify-content: left; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-mu-one-15.vercel.app/api?username=joseloc16&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D159EC&icon_color=A077C6&text_color=E0E0E0&bg_color=0,0A0A23,130F40" alt="GitHub Stats" />
+  <img width="300" src="https://github-readme-stats-mu-one-15.vercel.app/api/top-langs/?username=joseloc16&layout=compact&langs_count=4&title_color=D159EC&text_color=E0E0E0&icon_color=A077C6&bg_color=0,0A0A23,130F40" alt="Top Languages (CSS & SCSS excluidos)" />
+</div>
