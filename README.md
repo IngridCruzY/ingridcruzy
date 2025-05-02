@@ -28,7 +28,7 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
 
 # 🏆 Trofeos de GitHub
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ingridcruzy&theme=radical&row=2&column=3&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=ingridcruzy&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 Estadísticas de GitHub
 
