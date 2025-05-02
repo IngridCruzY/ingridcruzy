@@ -30,6 +30,6 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
 
 <div align="left" style="display: flex; justify-content: left; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=ingridcruzy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia" alt="GitHub Stats" />
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridcruzy&layout=compact&langs_count=4&theme=algolia&repo=nombre-del-repo" alt="Top Languages" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridcruzy&layout=compact&langs_count=4&theme=algolia" alt="Top Languages" />
 </div>
 
