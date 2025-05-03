@@ -32,7 +32,7 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
 
 ## 📊 Estadísticas de GitHub
 
-<div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: left; gap: 20px; flex-wrap: wrap;">
 
   <img src="https://github-readme-stats-ag1f.vercel.app/api?username=ingridcruzy&show_icons=true&count_private=true&theme=chartreuse-dark" width="440" />
   <img src="https://github-readme-stats-ag1f.vercel.app/api/top-langs/?username=ingridcruzy&layout=compact&theme=chartreuse-dark" width="440" />
