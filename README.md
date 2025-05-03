@@ -13,7 +13,7 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
     <a href="https://instagram.com/ingridlcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ingridlcruz" height="30" width="40" /></a
 </p>
 
-# 💻 Lenguajes de Programación:
+## 💻 Lenguajes de Programación:
 <p align="left"> 
     <a href="https://lenguajehtml.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
     <a href="https://lenguajecss.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
@@ -26,17 +26,17 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-# 🏆 Trofeos de GitHub
+## 🏆 Trofeos de GitHub
 
 ![](https://github-profile-trophy.vercel.app/?username=ingridcruzy&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-# 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingridcruzy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ingridcruzy&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-# 🔥 Racha de contribuciones
+## 🔥 Racha de contribuciones
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridcruzy&theme=tokyonight" alt="mystreak"/>
 
