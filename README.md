@@ -1,5 +1,5 @@
 <h1 align = "center"><b>¡Hola Mundo!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->IC22
+<!--  -->IyM
 
 <h2 align="center">Desarrolladora Web</h2>
 
@@ -32,13 +32,20 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
 
 ## 📊 Estadísticas de GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingridcruzy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ingridcruzy&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats-ag1f.vercel.app/api?username=ingridcruzy&show_icons=true&count_private=true&theme=chartreuse-dark" width="440" />
+  <img src="https://github-readme-stats-ag1f.vercel.app/api/top-langs/?username=ingridcruzy&layout=compact&theme=chartreuse-dark" width="440" />
+
+</div>
 
 ## 🔥 Racha de contribuciones
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridcruzy&theme=tokyonight" alt="mystreak"/>
+
+
+
+
 
 
 
