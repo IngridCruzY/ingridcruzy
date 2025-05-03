@@ -38,7 +38,7 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
 
 # 🔥 Racha de contribuciones
 
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ingridcruzy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ingridcruzy&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak"/>
 
 
 
