@@ -36,6 +36,8 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ingridcruzy&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
+
+
 ## 🔥 Racha de contribuciones
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridcruzy&theme=tokyonight" alt="mystreak"/>
