@@ -41,7 +41,7 @@ Me encanta colaborar, aprender de mis compañeros y aportar nuevas ideas que imp
 
 ## 🔥 Racha de contribuciones
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IngridCruzY&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IngridCruzY&theme=tokyonight&count_private=true&cache_seconds=1" alt="GitHub streak stats" />
 
 
 
